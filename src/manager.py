@@ -24,7 +24,7 @@ class Manager:
     to manage apartments, tenants, transfers, bills, and apartment events.
     """
 
-    def __init__(self, parameters: Parameters):
+    # def __init__(self, parameters: Parameters):
         self.parameters = parameters
 
         self.apartments = {}
